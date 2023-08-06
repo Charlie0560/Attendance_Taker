@@ -39,6 +39,6 @@ if ((process.env.NODE_ENV = "production")) {
 }
 
 
-app.listen(5000, () => {
+app.listen(3000, () => {
   console.log("Backend is running!");
 });
